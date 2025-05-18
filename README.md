@@ -17,18 +17,9 @@ Aplicativo React Native para gerenciar uma coleção de carros, com telas para v
 
 ## Estrutura do Projeto
 
-/src
-  /assets              # Imagens, ícones e fundos utilizados no app
-  /components          # Componentes reutilizáveis, ex: CarCard, WishCard
-  /screens             # Telas principais do app
-    Home.tsx             # Tela principal com lista de carros
-    Detalhes.tsx         # Tela de detalhes do carro com edição
-    Criar.tsx            # Tela para criar novo carro na coleção
-    WishList.tsx         # Tela da lista de desejos
-    DetalhesWishList.tsx # Detalhes dos itens da WishList
-  /styles              # Arquivos de estilos em formato modular
-  routes.ts            # Definição da navegação e tipos para navegação
-  App.tsx              # Entrada principal do aplicativo, configurações de navegação
+![Image](https://github.com/user-attachments/assets/22d6fe50-aba4-4a36-87a7-90f7d0e99f06)
+
+
 ## Tecnologias Utilizadas
 
 - **React Native** — Framework para desenvolvimento mobile multiplataforma (iOS e Android).
