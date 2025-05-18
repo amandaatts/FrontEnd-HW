@@ -27,4 +27,4 @@ Aplicativo React Native para gerenciar uma coleção de carros, com telas para v
 - **React Navigation** — Biblioteca para navegação entre telas.
 - **Expo Vector Icons** — Biblioteca de ícones vetoriais para React Native.
 - **React Native Gesture Handler** — Suporte avançado para gestos e toques.
-- **React Native Reanimated** — Animações fluidas e complexas.
+- **React Native Reanimated** — Animações fluidas.
